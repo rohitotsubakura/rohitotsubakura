@@ -22,6 +22,7 @@ In my private life, I like to create own website by using Jamstack(Next.js SSG),
 [![Jest](https://img.shields.io/badge/-Jest-000?logo=jest&logoColor=C21325)](https://jestjs.io/)
 [![Storybook](https://img.shields.io/badge/-Storybook-000?logo=storybook)](https://storybook.js.org/)
 [![Blender](https://img.shields.io/badge/-Blender-000?logo=blender)](https://www.blender.org/)
+[![Figma](https://img.shields.io/badge/-Figma-000?logo=figma)](https://www.figma.com/)
 [![Adobe XD](https://img.shields.io/badge/-XD-000?logo=adobexd)](https://www.adobe.com/products/xd.html)
 [![Affinity Suite](https://img.shields.io/badge/-AffinitySuite-000?logo=affinity)](https://affinity.serif.com/ja-jp/)
 
